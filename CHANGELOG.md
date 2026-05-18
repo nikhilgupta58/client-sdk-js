@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.19.1
+
+### Patch Changes
+
+- Ensure that client protocol is set in the dual peer connection case - [#1942](https://github.com/livekit/client-sdk-js/pull/1942) ([@1egoman](https://github.com/1egoman))
+
 ## 2.19.0
 
 ### Minor Changes
